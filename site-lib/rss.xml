@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Metalltechnik WIKI]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Metalltechnik WIKI</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 17 Apr 2026 10:28:19 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 17 Apr 2026 10:27:43 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Index]]></title><description><![CDATA[
+<a data-href="01. Festigkeitslehre" href="01.-festigkeitslehre/01.-festigkeitslehre.html" class="internal-link" target="_self" rel="noopener nofollow">01. Festigkeitslehre</a>
+<br><a data-href="02. Fertigungstechnik" href="02.-fertigungstechnik/02.-fertigungstechnik.html" class="internal-link" target="_self" rel="noopener nofollow">02. Fertigungstechnik</a>
+<br><a data-href="03. CNC" href="03.-cnc/03.-cnc.html" class="internal-link" target="_self" rel="noopener nofollow">03. CNC</a>
+<br><a data-href="04. Steuerungstechnik" href="04.-steuerungstechnik/04.-steuerungstechnik.html" class="internal-link" target="_self" rel="noopener nofollow">04. Steuerungstechnik</a>
+<br><a data-href="05. Maschinenelmente" href="05.-maschinenelmente/05.-maschinenelmente.html" class="internal-link" target="_self" rel="noopener nofollow">05. Maschinenelmente</a>
+]]></description><link>index.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/Index.md</guid><pubDate>Fri, 17 Apr 2026 10:27:33 GMT</pubDate></item><item><title><![CDATA[Zugmittel]]></title><description><![CDATA[
+<a data-href="BERECHNUNG - Schmalkeilriemen" href="05.-maschinenelmente/zugmittel/berechnung-schmalkeilriemen.html" class="internal-link" target="_self" rel="noopener nofollow">BERECHNUNG - Schmalkeilriemen</a>
+<br><a data-href="Theoretische Grundlage" href="05.-maschinenelmente/zugmittel/theoretische-grundlage.html" class="internal-link" target="_self" rel="noopener nofollow">Theoretische Grundlage</a>
+]]></description><link>05.-maschinenelmente/zugmittel/zugmittel.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Zugmittel/Zugmittel.md</guid><pubDate>Fri, 17 Apr 2026 10:01:30 GMT</pubDate></item><item><title><![CDATA[Zahnräder]]></title><description><![CDATA[
+<a data-href="Arten von Zahnräder" href="05.-maschinenelmente/zahnräder/arten-von-zahnräder.html" class="internal-link" target="_self" rel="noopener nofollow">Arten von Zahnräder</a>
+]]></description><link>05.-maschinenelmente/zahnräder/zahnräder.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Zahnräder/Zahnräder.md</guid><pubDate>Fri, 17 Apr 2026 10:01:24 GMT</pubDate></item><item><title><![CDATA[Wellen & Achsen]]></title><description><![CDATA[
+<a data-href="Grenzspannung" href="05.-maschinenelmente/wellen-&amp;-achsen/grenzspannung.html" class="internal-link" target="_self" rel="noopener nofollow">Grenzspannung</a>
+<br><a data-href="Passfedern" href="05.-maschinenelmente/wellen-&amp;-achsen/passfedern.html" class="internal-link" target="_self" rel="noopener nofollow">Passfedern</a>
+<br><a data-href="Theorie" href="05.-maschinenelmente/wellen-&amp;-achsen/theorie.html" class="internal-link" target="_self" rel="noopener nofollow">Theorie</a>
+]]></description><link>05.-maschinenelmente/wellen-&amp;-achsen/wellen-&amp;-achsen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Wellen &amp; Achsen/Wellen &amp; Achsen.md</guid><pubDate>Fri, 17 Apr 2026 10:01:16 GMT</pubDate></item><item><title><![CDATA[Kupplungen]]></title><description><![CDATA[
+<a data-href="Automatisch Schaltbare Kupplungen" href="05.-maschinenelmente/kupplungen/automatisch-schaltbare-kupplungen.html" class="internal-link" target="_self" rel="noopener nofollow">Automatisch Schaltbare Kupplungen</a>
+<br><a data-href="Nichtschaltbare Kupplungen" href="05.-maschinenelmente/kupplungen/nichtschaltbare-kupplungen.html" class="internal-link" target="_self" rel="noopener nofollow">Nichtschaltbare Kupplungen</a>
+<br><a data-href="Schaltbare Kupplungen" href="05.-maschinenelmente/kupplungen/schaltbare-kupplungen.html" class="internal-link" target="_self" rel="noopener nofollow">Schaltbare Kupplungen</a>
+]]></description><link>05.-maschinenelmente/kupplungen/kupplungen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Kupplungen/Kupplungen.md</guid><pubDate>Fri, 17 Apr 2026 10:01:00 GMT</pubDate></item><item><title><![CDATA[03. CNC]]></title><description><![CDATA[Hinweise im Tabellenbuch
+<a data-href="Theoretische Grundlage" href="03.-cnc/theoretische-grundlage/theoretische-grundlage.html" class="internal-link" target="_self" rel="noopener nofollow">Theoretische Grundlage</a>
+Worauf gibt es Punkte Maschinenstart
+Setzung von Nullpunkten Kühlwasser an u. aus
+Nutzen von Fräs- u. Bohrzyklen ]]></description><link>03.-cnc/03.-cnc.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/03. CNC/03. CNC.md</guid><pubDate>Fri, 17 Apr 2026 10:00:40 GMT</pubDate></item><item><title><![CDATA[Theoretische Grundlage]]></title><description><![CDATA[
+<a data-href="Aufbau einer CNC Maschine" href="03.-cnc/theoretische-grundlage/aufbau-einer-cnc-maschine.html" class="internal-link" target="_self" rel="noopener nofollow">Aufbau einer CNC Maschine</a>
+<br><a data-href="Messsysteme" href="03.-cnc/theoretische-grundlage/messsysteme.html" class="internal-link" target="_self" rel="noopener nofollow">Messsysteme</a>
+<br><a data-href="Steuern &amp; Regeln" href="03.-cnc/theoretische-grundlage/steuern-&amp;-regeln.html" class="internal-link" target="_self" rel="noopener nofollow">Steuern &amp; Regeln</a>
+]]></description><link>03.-cnc/theoretische-grundlage/theoretische-grundlage.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/03. CNC/Theoretische Grundlage/Theoretische Grundlage.md</guid><pubDate>Fri, 17 Apr 2026 09:59:57 GMT</pubDate></item><item><title><![CDATA[04. Steuerungstechnik]]></title><description><![CDATA[
+<a data-href="Theoretische Grundlage" href="04.-steuerungstechnik/theoretische-grundlage/theoretische-grundlage.html" class="internal-link" target="_self" rel="noopener nofollow">Theoretische Grundlage</a>
+]]></description><link>04.-steuerungstechnik/04.-steuerungstechnik.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/04. Steuerungstechnik/04. Steuerungstechnik.md</guid><pubDate>Fri, 17 Apr 2026 09:59:48 GMT</pubDate></item><item><title><![CDATA[Theoretische Grundlage]]></title><description><![CDATA[
+<a data-href="GRAFCET" href="04.-steuerungstechnik/theoretische-grundlage/grafcet.html" class="internal-link" target="_self" rel="noopener nofollow">GRAFCET</a>
+<br><a data-href="Zuordnungstabelle" href="04.-steuerungstechnik/theoretische-grundlage/zuordnungstabelle.html" class="internal-link" target="_self" rel="noopener nofollow">Zuordnungstabelle</a>
+]]></description><link>04.-steuerungstechnik/theoretische-grundlage/theoretische-grundlage.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/04. Steuerungstechnik/Theoretische Grundlage/Theoretische Grundlage.md</guid><pubDate>Fri, 17 Apr 2026 09:59:37 GMT</pubDate></item><item><title><![CDATA[Messsysteme]]></title><description><![CDATA[Kurzgesagt Wegmesssysteme sorgen dafür, dass Maschinen jederzeit ihre genaue Position kennen. Man unterscheidet inkrementale und absolute Systeme sowie direkte und indirekte Messprinzipien.
+Wegmesssysteme dienen dazu, dass eine Maschine jederzeit „weiß“, wo sich Werkzeug und Werkstück befinden.Sie sind ein zentraler Bestandteil moderner CNC- und Automatisierungssysteme.]]></description><link>03.-cnc/theoretische-grundlage/messsysteme.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/03. CNC/Theoretische Grundlage/Messsysteme.md</guid><pubDate>Fri, 17 Apr 2026 09:47:46 GMT</pubDate></item><item><title><![CDATA[Steuern & Regeln]]></title><description><![CDATA[Kurzgesagt Steuern und Regeln sind grundlegende Verfahren der Automatisierungstechnik. Beim Steuern erfolgt die Beeinflussung einer Größe ohne Rückmeldung, während beim Regeln eine Rückkopplung über den Istwert stattfindet, um Abweichungen automatisch auszugleichen.
+Beim Steuern wird eine Größe durch einen offenen Wirkungsablauf beeinflusst.
+keine Rückmeldung des Ergebnisses
+Ablauf ist fest vorgegeben
+Störungen werden nicht automatisch ausgeglichen
+Beispiel:
+Eine Waschmaschine läuft ein Programm ohne zu prüfen, ob das Wasser exakt die Solltemperatur erreicht hat.Beim Regeln wird eine Größe kontinuierlich überwacht und angepasst.
+mit Rückkopplung (Istwert → Sollwert)
+Abweichungen werden automatisch korrigiert
+geschlossener Regelkreis
+Beispiel:
+Eine Heizungsanlage misst die Raumtemperatur und passt die Heizleistung entsprechend an.]]></description><link>03.-cnc/theoretische-grundlage/steuern-&amp;-regeln.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/03. CNC/Theoretische Grundlage/Steuern &amp; Regeln.md</guid><pubDate>Fri, 17 Apr 2026 09:47:20 GMT</pubDate></item><item><title><![CDATA[Arten von Zahnräder]]></title><description><![CDATA[Kurzgesagt Zahnradgetriebe übertragen Drehbewegungen und Drehmomente zwischen Wellen. Unterschiedliche Zahnformen (Zykloide, Evolvente) sowie Bauarten (Gerad-, Schrägverzahnung, Schnecken- und Schraubenradgetriebe) beeinflussen Laufruhe, Belastbarkeit und Wirkungsgrad. Zahnflanken bestehen aus Zykloidenkurven
+heute selten im Maschinenbau
+Vorteile: geringer Verschleiß bei präziser Fertigung
+Nachteile: aufwendige Herstellung, empfindlich bei Achsabstandsänderungen Zahnflanken basieren auf der Evolvente eines Kreises
+Standard im modernen Maschinenbau
+Vorteile: unempfindlich gegen kleine Achsabstandsänderungen
+gute Kraftübertragung
+einfache Herstellung Nachteile: etwas höherer Verschleiß bei schlechten Bedingungen Evolvente: industrieller Standard, robust, universell einsetzbar
+Zykloide: historisch, präzise, aber wenig toleranzfähig und selten genutzt Zähne verlaufen parallel zur Wellenachse
+einfache Herstellung
+hoher Wirkungsgrad
+laut und stoßbelastet bei hohen Drehzahlen Zähne verlaufen schräg zur Wellenachse
+ruhiger Lauf und bessere Kraftübertragung
+höhere Belastbarkeit
+erzeugt Axialkräfte, daher Lagerbelastung höher Geradverzahnt: einfach, günstig, laut
+Schrägverzahnt: leise, belastbar, aber komplexer und mit Axialkräften überträgt Bewegung zwischen sich kreuzenden Wellen
+meist mit schrägverzahnten Rädern
+höhere Reibung als Stirnradgetriebe
+für kleinere Leistungen geeignet besteht aus Schnecke (Schraube) und Rad
+sehr große Übersetzungen möglich
+oft selbsthemmend
+niedriger Wirkungsgrad durch hohe Reibung Schraubenradgetriebe: effizienter, für moderate Übersetzungen
+Schneckenradgetriebe: sehr hohe Übersetzung, kompakt, aber verlustreich ]]></description><link>05.-maschinenelmente/zahnräder/arten-von-zahnräder.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Zahnräder/Arten von Zahnräder.md</guid><pubDate>Fri, 17 Apr 2026 09:44:32 GMT</pubDate></item><item><title><![CDATA[04. Fügen]]></title><description><![CDATA[Fügen (Kurzüberblick) Fügen ist ein Fertigungsverfahren, bei dem zwei oder mehr Werkstücke dauerhaft oder lösbar miteinander verbunden werden. Es umfasst stoffschlüssige, formschlüssige und kraftschlüssige Verbindungen und ist ein zentraler Bereich der Fertigungstechnik. <a data-href="Kleben" href="02.-fertigungstechnik/04.-fügen/kleben.html" class="internal-link" target="_self" rel="noopener nofollow">Kleben</a>
+<br><a data-href="Löten" href="02.-fertigungstechnik/04.-fügen/löten.html" class="internal-link" target="_self" rel="noopener nofollow">Löten</a>
+<br><a data-href="Schweißen" href="02.-fertigungstechnik/04.-fügen/schweißen.html" class="internal-link" target="_self" rel="noopener nofollow">Schweißen</a>
+]]></description><link>02.-fertigungstechnik/04.-fügen/04.-fügen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/04. Fügen/04. Fügen.md</guid><pubDate>Fri, 17 Apr 2026 09:42:15 GMT</pubDate></item><item><title><![CDATA[Schweißen]]></title><description><![CDATA[Kurzgesagt Schweißen ist ein stoffschlüssiges Fügeverfahren, bei dem Werkstoffe an der Fügestelle erhitzt und aufgeschmolzen werden, sodass sie sich dauerhaft verbinden. Meist wird zusätzliches Material zugeführt.
+Das Schweißen gehört zum Bereich Fügen und dort zum stoffschlüssigen Fügen.Dabei werden zwei Werkstoffe an der Fügestelle so stark erhitzt, dass sie aufschmelzen und miteinander verschmelzen.
+In vielen Verfahren wird zusätzlich Schweißzusatzwerkstoff verwendet.Schweißen wird häufig eingesetzt in:
+Metallbau (z. B. Brücken, Konstruktionen)
+Fahrzeugbau
+Maschinenbau ]]></description><link>02.-fertigungstechnik/04.-fügen/schweißen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/04. Fügen/Schweißen.md</guid><pubDate>Fri, 17 Apr 2026 09:41:09 GMT</pubDate></item><item><title><![CDATA[Löten]]></title><description><![CDATA[Kurzgesagt Löten ist ein stoffschlüssiges Fügeverfahren, bei dem ein Lot durch Benetzung, Diffusion und Erstarren eine dauerhafte Verbindung zwischen Werkstoffen herstellt. Man unterscheidet vor allem Weich- und Hartlöten, abhängig von der Arbeitstemperatur.
+Beim Löten läuft der Verbindungsprozess in mehreren Schritten ab:
+Das flüssige Lot benetzt den Grundwerkstoff
+Das Lot breitet sich auf der Oberfläche aus
+Das Lot dringt in die Oberfläche ein und bildet eine Legierung durch Diffusion
+Eine Legierung ist ein Metallgemisch aus mindestens zwei Elementen, von denen mindestens eines ein Metall ist.Legierungsarten:
+völlig löslich → Mischkristall
+begrenzt löslich → Kristallgemisch aus Mischkristallen
+völlig unlöslich → Kristallgemisch Beispiele:
+Stahl = Eisen + Kohlenstoff
+Messing = Kupfer + Zink
+Bronze = Kupfer + Zinn Temperatur unter 450 °C
+häufig in der Elektronik
+Lote meist aus Zinn (früher Zinn-Blei)
+einfache Handhabung
+flexible Verbindungen Temperatur über 450 °C
+Verwendung von Silber- oder Kupferlegierungen
+höhere Festigkeit und Temperaturbeständigkeit
+präzisere Verarbeitung und geeignete Werkzeuge erforderlich
+Lötpaste besteht aus feinem Lotpulver und Flussmittel.
+wird direkt auf Leiterplatten aufgetragen
+ermöglicht präzise Positionierung von Bauteilen
+wird im Reflow-Verfahren verwendet
+schmilzt beim Erhitzen und bildet die Verbindung
+Lötzinn ist eine Metalllegierung, meist auf Basis von Zinn.
+enthält oft Zinn mit weiteren Metallen oder bleifreie Alternativen
+Auswahl abhängig von Anwendung und Werkstoff
+Weichlot: niedrige Schmelztemperatur, Elektronik
+Hartlot: hohe Festigkeit und Temperaturbeständigkeit
+Die Qualität einer Lötverbindung hängt stark von sauberer Oberfläche, richtiger Temperaturführung und geeignetem Flussmittel ab.]]></description><link>02.-fertigungstechnik/04.-fügen/löten.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/04. Fügen/Löten.md</guid><pubDate>Fri, 17 Apr 2026 09:37:56 GMT</pubDate></item><item><title><![CDATA[Kleben]]></title><description><![CDATA[Kurzgesagt Kleben ist ein Fügeverfahren, bei dem Werkstoffe durch eine aushärtende Klebeschicht dauerhaft verbunden werden. Die Festigkeit der Verbindung hängt vor allem von Adhäsion, Kohäsion und der richtigen Oberflächenvorbereitung ab.
+Beim Kleben werden gleichartige oder unterschiedliche Materialien mithilfe eines Klebstoffs verbunden, der nach dem Auftragen aushärtet.Der Klebstoff kann auf verschiedene Arten aufgebracht werden:
+Spritzpistole
+Pinsel
+Spachtel
+Klebefolien
+Kleben wird in der Industrie vielseitig eingesetzt, z. B.:
+Automobilbau (Karosserieverklebungen)
+Luft- und Raumfahrt (leichte, belastbare Strukturen)
+Elektronik (Platinen, Displays)
+Medizin (z. B. Zahnmedizin, Implantate) Die Festigkeit einer Klebeverbindung hängt ab von:
+Adhäsion (Haftung zwischen Klebstoff und Oberfläche)
+Kohäsion (innere Festigkeit des Klebstoffs) Für eine optimale Verbindung muss die Oberfläche:
+fettfrei
+sauber
+trocken
+leicht aufgeraut
+sein.
+Schmelzklebstoffe → erstarren durch Abkühlung
+Nassklebstoffe → härten durch Lösungsmittelverdunstung
+Reaktionsklebstoffe → härten durch chemische Reaktion
+Zusätzlich:
+Ein- und Zwei-Komponentenkleber
+Warm- und Kaltkleber (ca. 20–400 °C)
+Die Belastbarkeit hängt weniger von der Fläche als von der Belastungsart ab.
+bevorzugt: Scherbelastung
+ungünstig: Zugbelastung / Aufreißen
+Zur Verbesserung der Haltbarkeit werden oft mechanische Sicherungen wie Bördeln oder Nieten eingesetzt.
+keine Gefügeänderung
+gleichmäßige Spannungsverteilung
+Verbindung unterschiedlicher Werkstoffe möglich
+keine mechanische Bearbeitung nötig
+dichte Verbindung
+geringer Passaufwand große Klebeflächen erforderlich
+keine dauerfeste Verbindung in allen Fällen
+geringe Temperaturbeständigkeit
+abhängig von Umwelteinflüssen
+Aushärtezeit erforderlich
+nicht für alle Materialien geeignet ]]></description><link>02.-fertigungstechnik/04.-fügen/kleben.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/04. Fügen/Kleben.md</guid><pubDate>Fri, 17 Apr 2026 09:36:33 GMT</pubDate></item><item><title><![CDATA[Zuordnungstabelle]]></title><description><![CDATA[Kurzgesagt Die Zuordnungstabelle verbindet im GRAFCET- bzw. SPS-Kontext die reale Anlage mit der Steuerung. Sie ordnet Bauteilbezeichnungen, SPS-Ein-/Ausgänge und deren Funktion eindeutig zu und schafft damit die Grundlage für eine korrekte Programmierung.
+In der Steuerungstechnik (SPS) und der Metalltechnik wird die Zuordnungstabelle verwendet, um eine klare Verbindung zwischen:
+Eingängen (Sensoren, Signale)
+Ausgängen (Aktoren, Antriebe)
+und den realen Bauteilen der Anlageherzustellen.
+Sie ist besonders wichtig für die Umsetzung eines GRAFCET-Plans in ein SPS-Programm.Eine typische Zuordnungstabelle enthält:
+Bauteilbezeichnung
+SPS Ein-/Ausgang (Adresse)
+Beschreibung der Funktion
+Die Zuordnungstabelle ist notwendig, um:
+GRAFCET-Schritte technisch umzusetzen
+Eingangsbedingungen korrekt zu erkennen
+Ausgänge eindeutig anzusteuern
+Fehler in der Verdrahtung oder Programmierung zu vermeiden
+Ohne eine saubere Zuordnungstabelle ist eine fehlerfreie Umsetzung von Steuerungsabläufen in der SPS kaum möglich, da GRAFCET nur die Logik beschreibt, aber keine konkreten Geräteadressen enthält.]]></description><link>04.-steuerungstechnik/theoretische-grundlage/zuordnungstabelle.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/04. Steuerungstechnik/Theoretische Grundlage/Zuordnungstabelle.md</guid><pubDate>Fri, 17 Apr 2026 09:34:49 GMT</pubDate></item><item><title><![CDATA[GRAFCET]]></title><description><![CDATA[Kurzgesagt Der GRAFCET-Plan beschreibt einen automatisierten Ablauf als Schrittkettenmodell. Dabei werden einzelne Schritte durch Übergangsbedingungen (Transitionen) verbunden. Aktionen sind den Schritten zugeordnet und werden abhängig von Bedingungen oder Zeiten ausgeführt.
+Der Ablauf wird über Wirkverbindungen strukturiert, die die logische Reihenfolge der Schritte festlegen.
+Der GRAFCET-Plan stellt eine Ablaufkette dar, in der einzelne Schritte durch Übergangsbedingungen miteinander verknüpft sind. Diese Verbindungen bilden eine logische Struktur des Prozessablaufs.Schritte sind klar abgegrenzte Teile eines Ablaufs, die sich vom vorherigen und folgenden Zustand unterscheiden.
+Sie sind mit Aktionen verknüpft (z. B. Verschieben, Starten, Stoppen)
+Im GRAFCET werden sie als Quadrate dargestellt
+Die zugehörigen Aktionen stehen in einem Rechteck
+Ausnahme Startschritt Der Startschritt (Grundstellung der Anlage) wird als doppeltes Quadrat dargestellt und mit der Zahl 1 gekennzeichnet.
+Übergangsbedingungen beschreiben die Bedingungen, die erfüllt sein müssen, damit der nächste Schritt aktiviert wird.
+Darstellung im GRAFCET durch Logiksymbole
+Sie steuern den Übergang zwischen zwei Schritten
+Aktionen sind den jeweiligen Schritten zugeordnet und beschreiben konkrete Vorgänge im Prozess.
+Darstellung in Rechtecken
+gleiche Größe wie die Schrittsymbole
+enthalten eine symbolische Beschreibung der Handlung
+Aktionen können zusätzlich abhängig sein von:
+logischen Verknüpfungen
+zeitlichen Bedingungen Wirkverbindungen stellen die logische Abfolge der Schritte dar.
+Darstellung durch Linien
+Übergangsbedingungen werden als Querstrich auf der Verbindung eingezeichnet Der GRAFCET-Plan dient als standardisierte Methode zur Beschreibung von Steuerungsabläufen in der Automatisierungstechnik und erleichtert die Umsetzung in Steuerungssysteme.]]></description><link>04.-steuerungstechnik/theoretische-grundlage/grafcet.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/04. Steuerungstechnik/Theoretische Grundlage/GRAFCET.md</guid><pubDate>Fri, 17 Apr 2026 09:32:44 GMT</pubDate></item><item><title><![CDATA[03. Trennen]]></title><description><![CDATA[Kurzgesagt Trennen ist ein Fertigungsverfahren der Metalltechnik, bei dem ein Werkstück gezielt in Teile zerlegt oder Material vom Werkstück entfernt wird, ohne dass sich die Stoffeigenschaften wesentlich ändern.
+Das Trennen gehört zur Fertigungstechnik und umfasst alle Verfahren, bei denen Werkstoff gezielt entfernt oder getrennt wird.Dabei wird das Werkstück entweder:
+in mehrere Teile zerlegt oder
+an bestimmten Stellen Material abgetragen Dabei wurde folgendes behandelt:
+<a data-href="Fräsen" href="02.-fertigungstechnik/03.-trennen/fräsen.html" class="internal-link" target="_self" rel="noopener nofollow">Fräsen</a>
+<br><a data-href="Spanarten" href="02.-fertigungstechnik/03.-trennen/spanarten.html" class="internal-link" target="_self" rel="noopener nofollow">Spanarten</a>
+<br><a data-href="Spanformen" href="02.-fertigungstechnik/03.-trennen/spanformen.html" class="internal-link" target="_self" rel="noopener nofollow">Spanformen</a>
+<br>Trennverfahren verändern die Form, aber nicht die <a data-tooltip-position="top" aria-label="02. Fertigungstechnik" data-href="02. Fertigungstechnik" href="02.-fertigungstechnik/02.-fertigungstechnik.html" class="internal-link" target="_self" rel="noopener nofollow">Stoffeigenschaften</a> des Materials.Trennen ist ein zentraler Fertigungsprozess, um:
+Rohteile zu bearbeiten präzise Bauteilgeometrien herzustellen überschüssiges Material zu entfernen ]]></description><link>02.-fertigungstechnik/03.-trennen/03.-trennen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/03. Trennen/03. Trennen.md</guid><pubDate>Fri, 17 Apr 2026 09:25:39 GMT</pubDate></item><item><title><![CDATA[Spanformen]]></title><description><![CDATA[Je nach eingestellten technologischen Bedingungen treten unterschiedliche Spanformen auf. Der sich ergebende Span soll so kurz sein, dass eine Behinderung der Maschinenbedienung, Störungen des Fertigablaufs sowie eine Beschädigung von Arbeitsfläche und Werkzeug nicht auftreten. Kurze Schraubenspäne und Spiralbruchspäne sind besonders günstig ]]></description><link>02.-fertigungstechnik/03.-trennen/spanformen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/03. Trennen/Spanformen.md</guid><pubDate>Fri, 17 Apr 2026 09:23:42 GMT</pubDate></item><item><title><![CDATA[Spanarten]]></title><description><![CDATA[Bei allen Spanarten können sich Werkstoffteilchen auf der Spanfläche der Schneide festsetzten und durch Bildung einer Aufbauschneide die Winkel und damit die Spanbildung ungünstig verändern. Die Oberflächengüte des Werkstücks wird herabgesetzt.
+Falsche Schnittgeschwindigkeit, schlechte Werkzeugoberflächen und wenig schmierende Kühlmittel begünstigen die Bildung einer Aufbauschneide
+langer, zusammenhängender Span geringere Werkstoffstauchung
+kein voreiler Riss
+schnelle Folge kleiner Schervorgänge
+Spanteilschen bleiben zusammenhängend großer Spanwinkel
+zäher Werkstoff
+hohe Schnittgeschwindigkeit glatte saubere Oberfläche
+kleine Schittkraft
+lange Späne behindern den Arbeitsvorgang Stücke noch zusammenhängender Spanteilchen mit vielen Scherrissen stärkere Werkstoffstauchung
+kurzer vireukebder Russ
+einzelne unregelmäßige Schervorgänge
+Spanteilchen bleiben nur teilweise zusammenhängend kleiner bist mittlerer Spanwinkel
+zähe und leicht spröde Werkstoffe
+mittlere Schnittgeschwindigkeit nicht so glatte Werkstückoberfläche mit unregelmäßigen Aussehen
+kurzer bröckliger Span behindert nicht den Arbeitsvorgang
+nur wenig größere Schnittkraft sehr kurzer, unregelmäßiger Span geringere Werkstoffstauchung bei spröden Werkstoffen voreilender Riss, der auch in de Werkstückoberfläche eindringt
+wenige unregelmäßige Schervorgänge kleiner Spanwinkel
+vorwiegend bei spröden Werkstoffen niedrige Schnittgeschwindigkeit raue Werkstückoberfläche große Schnittkraft
+kurzer Span behindert Arbeitsvorgang nicht
+]]></description><link>02.-fertigungstechnik/03.-trennen/spanarten.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/03. Trennen/Spanarten.md</guid><pubDate>Fri, 17 Apr 2026 09:23:33 GMT</pubDate></item><item><title><![CDATA[01. Urformen]]></title><description><![CDATA[Kurzgesagt Urformverfahren ermöglichen: komplexe Bauteilgeometrien
+wirtschaftliche Serienfertigung
+Herstellung von Rohteilen für weitere Bearbeitung Das Urformen gehört zur Fertigungstechnik und umfasst Verfahren, bei denen ein Werkstück erstmals aus einem formlosen Stoff hergestellt wird.Typische Ausgangsformen sind:
+flüssige Metalle (Gießen) <a data-href="Konstruktion des Gussteils" href="02.-fertigungstechnik/01.-urformen/konstruktion-des-gussteils.html" class="internal-link" target="_self" rel="noopener nofollow">Konstruktion des Gussteils</a>
+<br><a data-href="Herstellung einer Modelleinrichtung" href="02.-fertigungstechnik/01.-urformen/herstellung-einer-modelleinrichtung.html" class="internal-link" target="_self" rel="noopener nofollow">Herstellung einer Modelleinrichtung</a>
+<br><a data-href="Herstellen der gießfertigen Form in der Handformerei" href="02.-fertigungstechnik/01.-urformen/herstellen-der-gießfertigen-form-in-der-handformerei.html" class="internal-link" target="_self" rel="noopener nofollow">Herstellen der gießfertigen Form in der Handformerei</a>
+<br><a data-href="Abgießen und Putzen des Gussstücks" href="02.-fertigungstechnik/01.-urformen/abgießen-und-putzen-des-gussstücks.html" class="internal-link" target="_self" rel="noopener nofollow">Abgießen und Putzen des Gussstücks</a> <br>pulverförmige Stoffe (<a data-href="Sintern" href="02.-fertigungstechnik/01.-urformen/sintern.html" class="internal-link" target="_self" rel="noopener nofollow">Sintern</a>)
+]]></description><link>02.-fertigungstechnik/01.-urformen/01.-urformen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/01. Urformen.md</guid><pubDate>Fri, 17 Apr 2026 09:22:48 GMT</pubDate></item><item><title><![CDATA[Abgießen und Putzen des Gussstücks]]></title><description><![CDATA[Kurzgesagt Beim Gießen wird flüssiger Werkstoff in die Form eingebracht, erstarrt dort und wird anschließend entnommen, gereinigt und nachbearbeitet.
+Der flüssige Gusswerkstoff wird über den Eingusstrichter in die Form gegossen.Nach dem Erstarren:
+wird die Form zerstört
+das Gussstück entnommen Anschließend:
+werden Eingusstrichter, Lauf und Speiser entfernt
+das Werkstück gereinigt
+Grate und Überstände abgeschliffen Die Nachbearbeitung ist notwendig, um die endgültige Form und Oberflächenqualität des Bauteils sicherzustellen.]]></description><link>02.-fertigungstechnik/01.-urformen/abgießen-und-putzen-des-gussstücks.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/Abgießen und Putzen des Gussstücks.md</guid><pubDate>Fri, 17 Apr 2026 09:18:00 GMT</pubDate></item><item><title><![CDATA[Herstellen der gießfertigen Form in der Handformerei]]></title><description><![CDATA[Kurzgesagt In der Formerei wird mithilfe eines Modells eine verlorene Sandform hergestellt. Der Prozess umfasst das Einformen von Ober- und Unterkasten, das Entfernen des Modells sowie das Einsetzen von Kernen und das Zusammenbauen der gießfertigen Form.
+In der Formerei wird mit einem Modell eine sogenannte verlorene Sandform hergestellt, die nur einmal verwendet wird.Der Herstellungsprozess erfolgt in mehreren aufeinanderfolgenden Arbeitsschritten.Eine Modellhälfte wird auf eine Platte gelegt und mit Trennmittel behandelt.
+Anschließend wird ein Formrahmen (Unterkasten) aufgesetzt, mit Formsand gefüllt und festgestampft.Danach wird der Unterkasten umgedreht.<img alt="01. Aufstampfen des Unterkastens 1.png" src="02.-fertigungstechnik/01.-urformen/01.-aufstampfen-des-unterkastens-1.png" target="_self">Die zweite Modellhälfte wird auf die erste gesetzt und durch Dübel fixiert.Ein weiterer Formrahmen (Oberkasten) wird aufgesetzt. Zusätzlich werden Modelle für:
+den Einguss
+den Steiger angebracht.Danach wird auch der Oberkasten mit Formsand gefüllt und verdichtet.<br><img alt="02. Aufstampfen des Oberkastens.png" src="02.-fertigungstechnik/01.-urformen/02.-aufstampfen-des-oberkastens.png" target="_self">Ober- und Unterkasten werden voneinander getrennt.Zwischen Einguss und Formhohlraum wird ein Lauf (Gießkanal) in den Sand geschnitten.
+Anschließend werden alle Modellteile vorsichtig aus der Form entfernt.<br><img alt="03. Ausheben der Modelle 1.png" src="02.-fertigungstechnik/01.-urformen/03.-ausheben-der-modelle-1.png" target="_self">Ein vorbereiteter Kern wird in die entsprechenden Kernmarken im Unterkasten eingelegt.Danach:
+wird der Oberkasten wieder aufgesetzt
+sorgen Führungen für die exakte Positionierung
+wird der Oberkasten beschwert, um ein Anheben beim Gießen zu verhindern Die Form ist nun gießbereit.<br><img alt="04. Unterkasten mit enigelegten Kern &amp; Zusammengelegte Form.png" src="02.-fertigungstechnik/01.-urformen/04.-unterkasten-mit-enigelegten-kern-&amp;-zusammengelegte-form.png" target="_self">Die Genauigkeit der Sandform beeinflusst direkt die Qualität des Gussteils. Sorgfältiges Arbeiten in jedem Schritt ist daher entscheidend.]]></description><link>02.-fertigungstechnik/01.-urformen/herstellen-der-gießfertigen-form-in-der-handformerei.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/Herstellen der gießfertigen Form in der Handformerei.md</guid><pubDate>Fri, 17 Apr 2026 09:17:07 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Herstellung einer Modelleinrichtung]]></title><description><![CDATA[Kurzgesagt Der Modellriss ist eine angepasste Zeichnung für die Gießfertigung, die Schwindmaß, Formteilung, Formschrägen, Bearbeitungszugaben und Kerne berücksichtigt. Auf seiner Grundlage wird die Modelleinrichtung gefertigt.
+Nach der Konstruktionszeichnung erstellt der Modellbauer den Modellriss.Dieser berücksichtigt alle form- und gießtechnischen Anforderungen, um eine fehlerfreie Herstellung des Werkstücks zu ermöglichen.Folgende Änderungen werden gegenüber der ursprünglichen Konstruktion vorgenommen:
+Schwindmaß
+→ Alle Maße werden vergrößert, da das Werkstück beim Abkühlen schrumpft
+Modellteilung
+→ Wird im Bereich des größten Querschnitts vorgesehen, um den Formvorgang zu erleichtern
+Formschrägen
+→ Senkrechte Flächen zur Teilung erhalten eine Schräge (ca. 2 %), damit das Modell leicht entformt werden kann
+Bearbeitungszugabe
+→ Flächen, die später bearbeitet werden, erhalten zusätzliches Material (ca. 2 mm bei kleinen Werkstücken)
+→ Kleine Bohrungen werden zunächst voll gegossen
+Kerne und Kernmarken
+→ Für Innenkonturen und Hinterschneidungen werden Kerne verwendet
+→ Deren Positionierung erfolgt über Kernmarken am Modell Auf Basis des Modellrisses wird die Modelleinrichtung gefertigt.Als Werkstoffe für das Modell verwendet man je nach Stückzahl:
+Holz (für kleine Serien)
+Metall oder Kunststoff (für größere Serien)
+Der Modellriss ist entscheidend für die Qualität des späteren Gussteils, da er alle fertigungstechnischen Besonderheiten bereits in der Planungsphase berücksichtigt.]]></description><link>02.-fertigungstechnik/01.-urformen/herstellung-einer-modelleinrichtung.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/Herstellung einer Modelleinrichtung.md</guid><pubDate>Fri, 17 Apr 2026 09:15:24 GMT</pubDate></item><item><title><![CDATA[Konstruktion des Gussteils]]></title><description><![CDATA[Kurzgesagt Der Reitstock einer Drehmaschine wird so konstruiert, dass er funktional und gleichzeitig gießgerecht ist. Dabei spielen gleichmäßige Wanddicken, abgerundete Kanten und das Vermeiden von Hinterschneidungen eine zentrale Rolle.
+Der Konstrukteur gestaltet den Reitstock so, dass er sowohl seine Funktion als Bauelement einer Drehmaschine erfüllt als auch einfach durch Gießen herstellbar ist.Für eine fertigungsgerechte Konstruktion gelten folgende Grundregeln:
+Gleichmäßige Wanddicken
+→ Verhindern Spannungen und ungleichmäßiges Erstarren
+Abgerundete Kanten und Ecken
+→ Sorgen für gleichmäßige Abkühlung und reduzieren Spannungen im Bauteil
+Vermeidung von Hinterschneidungen
+→ Erleichtert die Herstellung des Formhohlraums und das Entformen Eine gießgerechte Konstruktion verbessert nicht nur die Fertigungsqualität, sondern reduziert auch Nacharbeit, Ausschuss und Produktionskosten.]]></description><link>02.-fertigungstechnik/01.-urformen/konstruktion-des-gussteils.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/Konstruktion des Gussteils.md</guid><pubDate>Fri, 17 Apr 2026 09:15:04 GMT</pubDate></item><item><title><![CDATA[Sintern]]></title><description><![CDATA[Kurzgesagt Sintern ist ein Urformverfahren, bei dem aus pulverförmigen Ausgangsstoffen durch Pressen und anschließendes Erwärmen feste Werkstücke mit hoher Maß- und Formgenauigkeit hergestellt werden.
+Beim Sintern handelt es sich um ein Urformverfahren, bei dem aus pulverförmigen Ausgangsstoffen feste Werkstücke in ihrer Endform hergestellt werden.Typische Merkmale:
+Hohe Formgenauigkeit
+Hohe Maßgenauigkeit
+Herstellung direkt nahe der Endkontur Die Fertigung erfolgt meist in mehreren Arbeitsschritten, insbesondere bei Metallpulvern oder pulverförmigen metallischen Verbindungen.Sintern – Ablauf Beim Sintern werden metallische Pulver zunächst unter hohem Druck zu einem Rohling gepresst.
+Anschließend wird dieser unter Wärmeeinwirkung behandelt, wodurch ein festes, zusammenhängendes Werkstückgefüge entsteht.
+Das Sintern eignet sich besonders für komplexe Geometrien und Materialien, die sich mit anderen Fertigungsverfahren nur schwer bearbeiten lassen.]]></description><link>02.-fertigungstechnik/01.-urformen/sintern.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/Sintern.md</guid><pubDate>Fri, 17 Apr 2026 09:15:01 GMT</pubDate></item><item><title><![CDATA[02. Umformen]]></title><description><![CDATA[Kurzgesagt Umformen ist ein Fertigungsverfahren, bei dem ein fester Körper plastisch verformt wird, ohne dass Masse oder Zusammenhalt verloren gehen. Es zeichnet sich durch geringe Materialverluste, hohe Genauigkeit und kurze Fertigungszeiten aus, erfordert jedoch aufwendige Werkzeuge und ist daher meist erst in Serien wirtschaftlich.
+Umformen bezeichnet das Fertigen durch plastisches (bildsames) Verändern der Form eines festen Körpers.Dabei gilt:
+Die Masse bleibt erhalten Der Zusammenhalt des Werkstoffs bleibt bestehen Geringe Materialverluste
+Kurze Fertigungszeiten
+Hohe Maßgenauigkeit
+Gute Oberflächengüte Aufwendige und präzise Werkzeuge erforderlich
+Wirtschaftlich meist nur bei größeren Stückzahlen sinnvoll
+Der wichtigste Ordnungsgesichtspunkt ist die Art der äußeren Beanspruchung, die die Formänderung verursacht.Darauf basierend unterscheidet man fünf Hauptgruppen der Umformverfahren.<img alt="5 Umformverfahren.png" src="02.-fertigungstechnik/02.-umformen/5-umformverfahren.png" target="_self"><br>Dabei wurde das <a data-tooltip-position="top" aria-label="Tiefziehen" data-href="Tiefziehen" href="02.-fertigungstechnik/02.-umformen/tiefziehen.html" class="internal-link" target="_self" rel="noopener nofollow">Zugdruckumformen</a> genauer behandeltDie Wahl des Umformverfahrens hängt stark von Werkstoff, Geometrie und Stückzahl ab. Besonders bei Serienfertigung spielt die Wirtschaftlichkeit der Werkzeugherstellung eine entscheidende Rolle.]]></description><link>02.-fertigungstechnik/02.-umformen/02.-umformen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/02. Umformen/02. Umformen.md</guid><pubDate>Fri, 17 Apr 2026 09:11:50 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[5 Umformverfahren]]></title><description><![CDATA[<img src="02.-fertigungstechnik/02.-umformen/5-umformverfahren.png" target="_self">]]></description><link>02.-fertigungstechnik/02.-umformen/5-umformverfahren.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/02. Umformen/5 Umformverfahren.png</guid><pubDate>Fri, 17 Apr 2026 09:10:11 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Theorie]]></title><description><![CDATA[Kurzgesagt Achsen tragen umlaufende Bauteile und werden hauptsächlich auf Biegung beansprucht, während Wellen Drehmomente übertragen und sich stets drehen. Zapfen sind die Lagerstellen von Achsen oder Wellen und stellen durch Durchmesseränderungen eine potenzielle Schwachstelle dar.
+Achsen dienen zum Tragen umlaufender Maschinenteile wie Rollen, Räder oder Hebel. Sie können feststehend oder drehbar gelagert sein.Die Hauptbeanspruchung erfolgt durch Biegung.
+Bei sehr kurzen Achsen (sogenannten Bolzen) sind die Biegespannungen im Vergleich zu den auftretenden Schubspannungen gering.Wellen sind rotierende Bauteile und zeichnen sich dadurch aus, dass sie ein Drehmoment übertragen.Neben der Torsionsbeanspruchung kann zusätzlich eine Biegebeanspruchung auftreten.Kombinierte Beanspruchung Treten gleichzeitig Drehmoment und Biegung auf, wird der erforderliche Wellendurchmesser mithilfe des Vergleichsmoments bestimmt.
+Zapfen sind die Bereiche einer Achse oder Welle, die im Lager laufen. Sie sind meist gegenüber dem restlichen Bauteil im Durchmesser reduziert (abgesetzt).Diese Durchmesseränderung führt zu einer Kerbwirkung, wodurch die Dauerfestigkeit verringert wird.Zur Verringerung der Bruchgefahr werden Übergänge daher gerundet ausgeführt.Durchmesseränderungen sollten möglichst weich gestaltet werden, da scharfe Kanten Spannungsspitzen verursachen und die Lebensdauer des Bauteils deutlich reduzieren können.]]></description><link>05.-maschinenelmente/wellen-&amp;-achsen/theorie.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Wellen &amp; Achsen/Theorie.md</guid><pubDate>Fri, 17 Apr 2026 09:08:38 GMT</pubDate></item><item><title><![CDATA[BERECHNUNG - Schmalkeilriemen]]></title><description><![CDATA[Kurzgesagt Die Berechnung der benötigten Riemenanzahl erfolgt über mehrere aufeinander aufbauende Schritte. Entscheidende Größen sind die übertragene Leistung, die Drehzahl, das gewählte Riemenprofil sowie Korrekturfaktoren wie Betriebs- und Umschlingungsfaktor. Eine strukturierte Vorgehensweise ist wichtig, da Tabellenwerte oft unübersichtlich sind und Zwischenschritte vorausgesetzt werden.
+Auf der entsprechenden Tabellenbuch-Seite wird die Berechnung der Riemenanzahl dargestellt, jedoch teilweise unübersichtlich und mit ausgelassenen Zwischenschritten. Daher folgt hier eine klare und allgemeine Anleitung.KurzübersichtVorab bestimmen:
+Zu übertragende Leistung Drehzahl der kleinen Scheibe in Berechnung:
+3. Betriebsfaktor bestimmen
+4. Riemenprofil anhand Diagramm auswählen
+5. Nennleistung aus und bestimmen
+6. Umschlingungsfaktor berücksichtigenEmpfohlene Reihenfolge
+Riemenprofil festlegen
+Übersetzung bestimmen
+Kleinen Scheibendurchmesser festlegen (Normzahlen)
+Großen Scheibendurchmesser berechnen (Normzahlen)
+Tatsächliche Übersetzung prüfen
+Umschlingungswinkel berechnen
+Nennleistung pro Riemen bestimmen
+Anzahl der Riemen berechnen
+Der Betriebsfaktor wird aus der entsprechenden Tabelle entnommen.
+Dabei gilt: Jeder Zeilenumbruch entspricht einer neuen Kombination und muss korrekt interpretiert werden.Die Nennleistung wird mithilfe der Tabelle für Schmalkeilriemen bestimmt:
+Passendes Riemenprofil auswählen
+Geeigneten Durchmesser der kleinen Scheibe festlegen anhand von und aus der Tabelle ablesen
+Der Umschlingungswinkel wird berechnet mit:mit:Ein kleiner Umschlingungswinkel führt zu geringerer übertragbarer Leistung und muss daher über Korrekturfaktoren berücksichtigt werden.]]></description><link>05.-maschinenelmente/zugmittel/berechnung-schmalkeilriemen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Zugmittel/BERECHNUNG - Schmalkeilriemen.md</guid><pubDate>Fri, 17 Apr 2026 09:07:26 GMT</pubDate></item><item><title><![CDATA[Theoretische Grundlage]]></title><description><![CDATA[Kurzgesagt Zugmittelgetriebe übertragen Drehbewegungen über Riemen oder Ketten und eignen sich besonders für große Achsabstände. Riemengetriebe arbeiten meist kraftschlüssig (mit Schlupf), während Zahnriemen und Ketten formschlüssig und damit schlupffrei arbeiten. Unterschiedliche Bauarten wie Flach-, Keil- und Zahnriemen sowie Ketten bieten je nach Anwendung spezifische Vor- und Nachteile.
+Bei Zugmittelgetrieben werden Drehbewegungen vom Antriebsrad durch Riemen oder Ketten auf das getriebene Rad übertragen. Sie kommen vor allem dann zum Einsatz, wenn große Achsenabstände überbrückt werden müssen.In Riemengetrieben erfolgt die Kraftübertragung über einen elastischen Riemen. Dabei besteht ein Kraftschluss zwischen Riemen und Riemenscheibe. Die übertragbare Kraft hängt von der Reibung ab, welche bestimmt wird durch:
+die Normalkraft die Reibungszahl den Umschlingungswinkel Die Normalkraft wird maßgeblich durch die Vorspannung des Riemens bestimmt. Eine zu hohe Vorspannung erhöht jedoch die Lagerbelastung und ist daher begrenzt.Eine hohe Haftreibungszahl ist wünschenswert, weshalb Materialien wie Leder, Gummi oder gewebeverstärkte Kunststoffe für Riemen und Metalle oder Kunststoffe für Scheiben verwendet werden.Der Umschlingungswinkel beschreibt den Kontaktbereich zwischen Riemen und Scheibe. Ein kleiner Umschlingungswinkel (z. B. bei kleinen Scheiben) reduziert die übertragbare Kraft.Im Betrieb wird der Riemen auf der Zugseite (Zugtrum) stärker gedehnt als auf der Rückseite (Leertrum). Dadurch ergibt sich ein kleiner Unterschied in der Umfangsgeschwindigkeit zwischen antreibendem und getriebenem Rad.Dieser Effekt wird als Dehnungsschlupf bezeichnet und beträgt typischerweise bis zu etwa 2 %.Drehschlupf Bei kraftschlüssigen Riemengetrieben tritt immer Dehnungsschlupf auf, wodurch die tatsächliche Drehzahl des getriebenen Rads geringer ist als die theoretische.
+Flachriemen bestehen aus Leder oder Textilien mit Reibbelag. Moderne Varianten besitzen eine Zugschicht aus Polyestergewebe und eine Reibschicht aus Kunststoff oder Chromleder.Sie werden bevorzugt bei großen Wellenabständen eingesetzt.Keilriemen bestehen aus Gummi und sind durch Gewebe verstärkt.Sie übertragen Kräfte über die Flanken der keilförmigen Riemenscheiben. Dadurch entstehen hohe Normalkräfte, was eine hohe Kraftübertragung ermöglicht. Wichtig ist, dass der Riemen nicht auf dem Scheibengrund aufliegt.Unterschied Flach- und Keilriemen Flachriemen übertragen die Kraft über den Umfang der Scheibe.
+Keilriemen übertragen die Kraft über die Flanken der Scheibe.
+Zahnriemen bestehen aus Gummi oder Kunststoff und besitzen ein Zahnprofil. Dadurch entsteht ein Formschluss zwischen Riemen und Scheibe.Dies ermöglicht eine schlupffreie Kraftübertragung. Sie werden eingesetzt, wenn kein Schlupf auftreten darf, aber Vorteile von Riemenantrieben genutzt werden sollen.Kraftübertragung beim Zahnriemen Zahnriemen arbeiten formschlüssig und übertragen die Bewegung ohne Schlupf.
+Bei Kettengetrieben erfolgt die Kraftübertragung durch Stahlketten. Diese arbeiten ebenfalls formschlüssig, wodurch kein Schlupf entsteht.Am häufigsten werden Rollketten eingesetzt, die als Einfach- oder Mehrfachketten ausgeführt sein können.Kraftübertragung beim Kettengetriebe Ketten übertragen Kräfte formschlüssig und können bei geringerer Baubreite höhere Kräfte als Riemengetriebe übertragen.
+]]></description><link>05.-maschinenelmente/zugmittel/theoretische-grundlage.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Zugmittel/Theoretische Grundlage.md</guid><pubDate>Fri, 17 Apr 2026 09:06:08 GMT</pubDate></item><item><title><![CDATA[04. Unterkasten mit enigelegten Kern & Zusammengelegte Form]]></title><description><![CDATA[<img src="02.-fertigungstechnik/01.-urformen/04.-unterkasten-mit-enigelegten-kern-&amp;-zusammengelegte-form.png" target="_self">]]></description><link>02.-fertigungstechnik/01.-urformen/04.-unterkasten-mit-enigelegten-kern-&amp;-zusammengelegte-form.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/04. Unterkasten mit enigelegten Kern &amp; Zusammengelegte Form.png</guid><pubDate>Fri, 17 Apr 2026 05:34:48 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[03. Ausheben der Modelle 1]]></title><description><![CDATA[<img src="02.-fertigungstechnik/01.-urformen/03.-ausheben-der-modelle-1.png" target="_self">]]></description><link>02.-fertigungstechnik/01.-urformen/03.-ausheben-der-modelle-1.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/03. Ausheben der Modelle 1.png</guid><pubDate>Fri, 17 Apr 2026 05:34:40 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[03. Ausheben der Modelle]]></title><description><![CDATA[<img src="02.-fertigungstechnik/01.-urformen/03.-ausheben-der-modelle.png" target="_self">]]></description><link>02.-fertigungstechnik/01.-urformen/03.-ausheben-der-modelle.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/03. Ausheben der Modelle.png</guid><pubDate>Fri, 17 Apr 2026 05:34:37 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[02. Aufstampfen des Oberkastens]]></title><description><![CDATA[<img src="02.-fertigungstechnik/01.-urformen/02.-aufstampfen-des-oberkastens.png" target="_self">]]></description><link>02.-fertigungstechnik/01.-urformen/02.-aufstampfen-des-oberkastens.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/02. Aufstampfen des Oberkastens.png</guid><pubDate>Fri, 17 Apr 2026 05:34:30 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[01. Aufstampfen des Unterkastens 1]]></title><description><![CDATA[<img src="02.-fertigungstechnik/01.-urformen/01.-aufstampfen-des-unterkastens-1.png" target="_self">]]></description><link>02.-fertigungstechnik/01.-urformen/01.-aufstampfen-des-unterkastens-1.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/01. Aufstampfen des Unterkastens 1.png</guid><pubDate>Fri, 17 Apr 2026 05:34:25 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[01. Aufstampfen des Unterkastens]]></title><description><![CDATA[<img src="02.-fertigungstechnik/01.-urformen/01.-aufstampfen-des-unterkastens.png" target="_self">]]></description><link>02.-fertigungstechnik/01.-urformen/01.-aufstampfen-des-unterkastens.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/01. Urformen/01. Aufstampfen des Unterkastens.png</guid><pubDate>Fri, 17 Apr 2026 05:34:06 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[01. Festigkeitslehre]]></title><description><![CDATA[Hinweise im Tabellenbuch]]></description><link>01.-festigkeitslehre/01.-festigkeitslehre.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/01. Festigkeitslehre/01. Festigkeitslehre.md</guid><pubDate>Thu, 16 Apr 2026 19:42:54 GMT</pubDate></item><item><title><![CDATA[02. Fertigungstechnik]]></title><description><![CDATA[Hinweise im Tabellbuch]]></description><link>02.-fertigungstechnik/02.-fertigungstechnik.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/02. Fertigungstechnik.md</guid><pubDate>Thu, 16 Apr 2026 19:42:45 GMT</pubDate></item><item><title><![CDATA[Grenzspannung]]></title><link>05.-maschinenelmente/wellen-&amp;-achsen/grenzspannung.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Wellen &amp; Achsen/Grenzspannung.md</guid><pubDate>Thu, 16 Apr 2026 19:41:29 GMT</pubDate></item><item><title><![CDATA[Passfedern]]></title><link>05.-maschinenelmente/wellen-&amp;-achsen/passfedern.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Wellen &amp; Achsen/Passfedern.md</guid><pubDate>Thu, 16 Apr 2026 19:40:38 GMT</pubDate></item><item><title><![CDATA[Lager]]></title><description><![CDATA[GleitlagerWälzlagerVergleichBegriffeRadial Axial Lagerreibung
+Trockenreibung
+Mischreibung
+Flüssigkeitsreibung
+Hydrodynamische SchmierungHydrostatische SchmierungFestlagerLoslagerWie erkennt man diese in ZeichnungenRechenbeispiel]]></description><link>05.-maschinenelmente/lager/lager.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Lager/Lager.md</guid><pubDate>Thu, 16 Apr 2026 19:40:17 GMT</pubDate></item><item><title><![CDATA[05. Maschinenelmente]]></title><link>05.-maschinenelmente/05.-maschinenelmente.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/05. Maschinenelmente.md</guid><pubDate>Thu, 16 Apr 2026 19:37:22 GMT</pubDate></item><item><title><![CDATA[Automatisch Schaltbare Kupplungen]]></title><link>05.-maschinenelmente/kupplungen/automatisch-schaltbare-kupplungen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Kupplungen/Automatisch Schaltbare Kupplungen.md</guid><pubDate>Thu, 16 Apr 2026 19:37:07 GMT</pubDate></item><item><title><![CDATA[Schaltbare Kupplungen]]></title><link>05.-maschinenelmente/kupplungen/schaltbare-kupplungen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Kupplungen/Schaltbare Kupplungen.md</guid><pubDate>Thu, 16 Apr 2026 19:36:57 GMT</pubDate></item><item><title><![CDATA[Nichtschaltbare Kupplungen]]></title><link>05.-maschinenelmente/kupplungen/nichtschaltbare-kupplungen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/05. Maschinenelmente/Kupplungen/Nichtschaltbare Kupplungen.md</guid><pubDate>Thu, 16 Apr 2026 19:36:43 GMT</pubDate></item><item><title><![CDATA[Fräsen]]></title><description><![CDATA[SchlupfenSchlichtenVorschubDrehzal Lineare Interpolation ]]></description><link>02.-fertigungstechnik/03.-trennen/fräsen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/03. Trennen/Fräsen.md</guid><pubDate>Thu, 16 Apr 2026 19:30:50 GMT</pubDate></item><item><title><![CDATA[Tiefziehen]]></title><description><![CDATA[TiefziehenFormel für Zuschnittdurchmesser DDabei ist:Dabei darf das maximale Ziehverhältnis von 2 nicht überschritten werdenForme die Formel so um um h zu akzeptieren]]></description><link>02.-fertigungstechnik/02.-umformen/tiefziehen.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/02. Fertigungstechnik/02. Umformen/Tiefziehen.md</guid><pubDate>Thu, 16 Apr 2026 18:33:58 GMT</pubDate></item><item><title><![CDATA[Beanspruchungsarten]]></title><link>01.-festigkeitslehre/beanspruchungsarten.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/01. Festigkeitslehre/Beanspruchungsarten.md</guid><pubDate>Sun, 12 Apr 2026 16:44:32 GMT</pubDate></item><item><title><![CDATA[Statik]]></title><link>01.-festigkeitslehre/statik.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/01. Festigkeitslehre/Statik.md</guid><pubDate>Sun, 12 Apr 2026 16:44:24 GMT</pubDate></item><item><title><![CDATA[Aufbau einer CNC Maschine]]></title><description><![CDATA[<img alt="Aufbau-Fraesmaschine.jpg" src="03.-cnc/theoretische-grundlage/aufbau-fraesmaschine.jpg" target="_self">Auch wenn der Aufbau einer CNC-Fräsmaschine im Detail sich zu Maschine zu Maschine unterscheidet besteht der Aufbau einer CNC-Fräsmaschine in der Regel aus folgenden teilen mit folgenden Funktionen:]]></description><link>03.-cnc/theoretische-grundlage/aufbau-einer-cnc-maschine.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/03. CNC/Theoretische Grundlage/Aufbau einer CNC Maschine.md</guid><pubDate>Sun, 12 Apr 2026 14:34:44 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Aufbau-Fraesmaschine]]></title><description><![CDATA[<img src="03.-cnc/theoretische-grundlage/aufbau-fraesmaschine.jpg" target="_self">]]></description><link>03.-cnc/theoretische-grundlage/aufbau-fraesmaschine.html</link><guid isPermaLink="false">01 - Projects/Metalltechnik WIKI/03. CNC/Theoretische Grundlage/Aufbau-Fraesmaschine.jpg</guid><pubDate>Sun, 12 Apr 2026 14:23:38 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
